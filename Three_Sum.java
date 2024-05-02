@@ -2,7 +2,7 @@
 // Note : The solution must contain Unique Triplets.
 
 import java.util.*;
-public class Main
+public class Three_Sum
 {
     public static void main(String args[])
     {
